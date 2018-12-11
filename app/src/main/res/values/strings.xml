@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Database</string>
+    <string name="positive">Positive Activity</string>
+    <string name="negative">Negative Activity</string>
+<string name="decision">Are you sure, you wanted to make this
+decision</string>
+    <string name="positive_button">Yes</string>
+    <string name="negative_button">No</string>
+</resources>
